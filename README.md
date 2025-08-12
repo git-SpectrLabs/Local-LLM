@@ -2,7 +2,7 @@
 
 ## Förutsättningar (hårdvara och rekommendationer)
 
-- **Flashdrive 128GB** (amazon: sandisk 128GB Ultra Flair)
+- **Flashdrive 128GB** (rekomendation - amazon: sandisk 128GB Ultra Flair)
 - **Dolphin llama3 - 8billion modell** 
 - **Windows 11**
 
