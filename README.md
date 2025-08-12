@@ -1,15 +1,15 @@
-# Installationsguide för local, ocensurerad, opartisk Large Language Model
+# Installationsguide för lokal, ocensurerad, opartisk Large Language Model
 
 ## Förutsättningar (hårdvara och rekommendationer)
 
-- Flashdrive 128GB (amazon: sandisk 128GB Ultra Flair)
-- Dolphin llama3 8billion modell 
-- Windows
+- **Flashdrive 128GB** (amazon: sandisk 128GB Ultra Flair)
+- **Dolphin llama3 - 8billion modell** 
+- **Windows 11**
 
 ## 0. Viktig kontext
 
-Följande metod är anpassad för windows 11 och för 8billion modellen av ollama3.
-Powershell har också använts för att köra allting.
+Följande metod är anpassad för windows 11 och för **8billion modellen** av ollama3.
+**Powershell** har också använts för att köra allting.
 
 ## 1. Förberedelser
 
