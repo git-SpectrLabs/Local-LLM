@@ -40,4 +40,4 @@ För tillfället körs programmet på datorns primära hårddisk. Vi ska nu flyt
 
 ## 3. Köra modellen.
 
-För att köra modellen vänligen se, 
+För att köra modellen vänligen se, run_dolphin_llama3_locally.pdf
